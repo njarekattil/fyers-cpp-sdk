@@ -175,7 +175,7 @@ Creates a new Fyers client with persistent connection pooling.
 
 **Example:**
 ```cpp
-FyersClient client("YCTR9C757K-100", "eyJhbGc...");
+FyersClient client("ZYXABCDEF-100", "eyJhbGc...");
 ```
 
 ---
